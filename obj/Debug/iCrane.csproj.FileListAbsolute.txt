@@ -1,0 +1,61 @@
+C:\Users\PC336\Desktop\enes\c#\6.hafta\iCrane\bin\Debug\iCrane.exe.config
+C:\Users\PC336\Desktop\enes\c#\6.hafta\iCrane\bin\Debug\iCrane.exe
+C:\Users\PC336\Desktop\enes\c#\6.hafta\iCrane\bin\Debug\iCrane.pdb
+C:\Users\PC336\Desktop\enes\c#\6.hafta\iCrane\obj\Debug\iCrane.csproj.AssemblyReference.cache
+C:\Users\PC336\Desktop\enes\c#\6.hafta\iCrane\obj\Debug\iCrane.Form1.resources
+C:\Users\PC336\Desktop\enes\c#\6.hafta\iCrane\obj\Debug\iCrane.Properties.Resources.resources
+C:\Users\PC336\Desktop\enes\c#\6.hafta\iCrane\obj\Debug\iCrane.csproj.GenerateResource.cache
+C:\Users\PC336\Desktop\enes\c#\6.hafta\iCrane\obj\Debug\iCrane.csproj.CoreCompileInputs.cache
+C:\Users\PC336\Desktop\enes\c#\6.hafta\iCrane\obj\Debug\iCrane.exe
+C:\Users\PC336\Desktop\enes\c#\6.hafta\iCrane\obj\Debug\iCrane.pdb
+C:\Users\PC3308\Desktop\iCrane\bin\Debug\iCrane.exe.config
+C:\Users\PC3308\Desktop\iCrane\bin\Debug\iCrane.exe
+C:\Users\PC3308\Desktop\iCrane\bin\Debug\iCrane.pdb
+C:\Users\PC3308\Desktop\iCrane\obj\Debug\iCrane.csproj.AssemblyReference.cache
+C:\Users\PC3308\Desktop\iCrane\obj\Debug\iCrane.Properties.Resources.resources
+C:\Users\PC3308\Desktop\iCrane\obj\Debug\iCrane.csproj.GenerateResource.cache
+C:\Users\PC3308\Desktop\iCrane\obj\Debug\iCrane.csproj.CoreCompileInputs.cache
+C:\Users\PC3308\Desktop\iCrane\obj\Debug\iCrane.exe
+C:\Users\PC3308\Desktop\iCrane\obj\Debug\iCrane.pdb
+C:\Users\buse_\Desktop\iCrane\bin\Debug\iCrane.exe.config
+C:\Users\buse_\Desktop\iCrane\bin\Debug\iCrane.exe
+C:\Users\buse_\Desktop\iCrane\bin\Debug\iCrane.pdb
+C:\Users\buse_\Desktop\iCrane\obj\Debug\iCrane.csprojAssemblyReference.cache
+C:\Users\buse_\Desktop\iCrane\obj\Debug\iCrane.Form1.resources
+C:\Users\buse_\Desktop\iCrane\obj\Debug\iCrane.Properties.Resources.resources
+C:\Users\buse_\Desktop\iCrane\obj\Debug\iCrane.csproj.GenerateResource.cache
+C:\Users\buse_\Desktop\iCrane\obj\Debug\iCrane.csproj.CoreCompileInputs.cache
+C:\Users\buse_\Desktop\iCrane\obj\Debug\iCrane.exe
+C:\Users\buse_\Desktop\iCrane\obj\Debug\iCrane.pdb
+C:\Users\buse_\Desktop\BEM\ProjectsBuse\16.12.2021\iCrane\bin\Debug\iCrane.exe.config
+C:\Users\buse_\Desktop\BEM\ProjectsBuse\16.12.2021\iCrane\bin\Debug\iCrane.exe
+C:\Users\buse_\Desktop\BEM\ProjectsBuse\16.12.2021\iCrane\bin\Debug\iCrane.pdb
+C:\Users\buse_\Desktop\BEM\ProjectsBuse\16.12.2021\iCrane\obj\Debug\iCrane.csprojAssemblyReference.cache
+C:\Users\buse_\Desktop\BEM\ProjectsBuse\16.12.2021\iCrane\obj\Debug\iCrane.Form1.resources
+C:\Users\buse_\Desktop\BEM\ProjectsBuse\16.12.2021\iCrane\obj\Debug\iCrane.Properties.Resources.resources
+C:\Users\buse_\Desktop\BEM\ProjectsBuse\16.12.2021\iCrane\obj\Debug\iCrane.csproj.GenerateResource.cache
+C:\Users\buse_\Desktop\BEM\ProjectsBuse\16.12.2021\iCrane\obj\Debug\iCrane.csproj.CoreCompileInputs.cache
+C:\Users\buse_\Desktop\BEM\ProjectsBuse\16.12.2021\iCrane\obj\Debug\iCrane.exe
+C:\Users\buse_\Desktop\BEM\ProjectsBuse\16.12.2021\iCrane\obj\Debug\iCrane.pdb
+C:\Users\PC3308\Desktop\iCrane\obj\Debug\iCrane.ICrane.resources
+C:\Users\buse_\Desktop\BEM\ProjectsBuse\17.12.2021\iCrane\bin\Debug\iCrane.exe.config
+C:\Users\buse_\Desktop\BEM\ProjectsBuse\17.12.2021\iCrane\bin\Debug\iCrane.exe
+C:\Users\buse_\Desktop\BEM\ProjectsBuse\17.12.2021\iCrane\bin\Debug\iCrane.pdb
+C:\Users\buse_\Desktop\BEM\ProjectsBuse\17.12.2021\iCrane\obj\Debug\iCrane.csprojAssemblyReference.cache
+C:\Users\buse_\Desktop\BEM\ProjectsBuse\17.12.2021\iCrane\obj\Debug\iCrane.ICrane.resources
+C:\Users\buse_\Desktop\BEM\ProjectsBuse\17.12.2021\iCrane\obj\Debug\iCrane.Properties.Resources.resources
+C:\Users\buse_\Desktop\BEM\ProjectsBuse\17.12.2021\iCrane\obj\Debug\iCrane.csproj.GenerateResource.cache
+C:\Users\buse_\Desktop\BEM\ProjectsBuse\17.12.2021\iCrane\obj\Debug\iCrane.csproj.CoreCompileInputs.cache
+C:\Users\buse_\Desktop\BEM\ProjectsBuse\17.12.2021\iCrane\obj\Debug\iCrane.exe
+C:\Users\buse_\Desktop\BEM\ProjectsBuse\17.12.2021\iCrane\obj\Debug\iCrane.pdb
+C:\Users\Dıllo\Downloads\iCrane (2)\iCrane\bin\Debug\iCrane.exe.config
+C:\Users\Dıllo\Downloads\iCrane (2)\iCrane\bin\Debug\iCrane.exe
+C:\Users\Dıllo\Downloads\iCrane (2)\iCrane\bin\Debug\iCrane.pdb
+C:\Users\Dıllo\Downloads\iCrane (2)\iCrane\obj\Debug\iCrane.csproj.AssemblyReference.cache
+C:\Users\Dıllo\Downloads\iCrane (2)\iCrane\obj\Debug\iCrane.ICrane.resources
+C:\Users\Dıllo\Downloads\iCrane (2)\iCrane\obj\Debug\iCrane.Properties.Resources.resources
+C:\Users\Dıllo\Downloads\iCrane (2)\iCrane\obj\Debug\iCrane.csproj.GenerateResource.cache
+C:\Users\Dıllo\Downloads\iCrane (2)\iCrane\obj\Debug\iCrane.csproj.CoreCompileInputs.cache
+C:\Users\Dıllo\Downloads\iCrane (2)\iCrane\obj\Debug\iCrane.exe
+C:\Users\Dıllo\Downloads\iCrane (2)\iCrane\obj\Debug\iCrane.pdb
+C:\Users\Dıllo\Downloads\iCrane (2)\iCrane\obj\Debug\iCrane.giris.resources
